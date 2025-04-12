@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xueyi Wang's personal page"
+title                    : "Xueyi Wang's Personal Page"
 title_separator          : "-"
 name                     : &name "Xueyi Wang"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Xueyi Wang"
   pronouns         : # example: "she/her"  
   bio              : "Add later"
-  location         : "Earth"
+  location         : "Groningen, The Netherlands"
   employer         : "University of Groingen"
   uri              : # URL
   email            : "xueyi.wang@rug.nl" 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
