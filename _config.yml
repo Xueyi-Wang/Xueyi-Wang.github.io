@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xueyi Wang's personal page'"
+title                    : "Xueyi Wang's personal page"
 title_separator          : "-"
 name                     : &name "Xueyi Wang"
 description              : &description "personal description"
