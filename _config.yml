@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xueyi Wang/ Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xueyi Wang"
 description              : &description "personal description"
 url                      : https://xueyi-wang.github.io/
 baseurl                  : ""
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Groingen"
   uri              : # URL
   email            : "none@example.org" 
 
