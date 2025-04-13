@@ -19,8 +19,8 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 # Related news
 ## My Latest Updates
 ### LinkedIn Updates
-      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7193599189233082368?collapsed=1" 
-        height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7193599189233082368" 
+       height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 
