@@ -28,3 +28,8 @@ My research interests lie at the intersection of Artificial Intelligence, Health
    Latest tweets by Xueyi Wang
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### LinkedIn Updates
+<!-- Paste LinkedIn embed code below -->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:YOURPOSTID" 
+        height="570" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
