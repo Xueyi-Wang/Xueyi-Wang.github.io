@@ -11,6 +11,10 @@ I am currently a postdoctoral researcher in the Discrete Technology & Production
 
 My research interests lie at the intersection of Artificial Intelligence, Healthcare, and Human-Machine Interaction. With a strong foundation in AI and computer science, I am passionate about developing innovative solutions to complex challenges, particularly in advancing AI applications within the healthcare sector.
 
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/xueyiwang/)
+<!-- - [X (Twitter)](https://twitter.com/your-twitter-username) -->
+
 
 # Related news
 Here are some related news.
