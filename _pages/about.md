@@ -33,13 +33,13 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 ### LinkedIn Updates
 
 <!-- First LinkedIn post -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:FIRSTPOSTID" 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7156948762394624000" 
         height="500" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post 1"></iframe>
 
-<!-- Second LinkedIn post -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:SECONDPOSTID" 
+<!-- Second LinkedIn post (if you have one) -->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7145827463925760000" 
         height="500" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post 2"></iframe>
 
-<!-- Third LinkedIn post -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:THIRDPOSTID" 
+<!-- Third LinkedIn post (if you have one) -->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7134763847392034816" 
         height="500" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post 3"></iframe>
