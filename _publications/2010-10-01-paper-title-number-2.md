@@ -1,7 +1,7 @@
 ---
 title: "Egofalls: a visual-audio dataset and benchmark for fall detection using egocentric cameras"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-12-01
