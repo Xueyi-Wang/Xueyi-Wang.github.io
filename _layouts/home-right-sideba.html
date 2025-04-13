@@ -1,0 +1,66 @@
+// filepath: /workspaces/Xueyi-Wang.github.io/_layouts/home-right-sidebar.html
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+<div id="main" role="main" class="layout--home-right-sidebar">
+  <div class="main-content">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+
+  <aside class="sidebar-right">
+    <div class="sticky">
+      {% if page.sidebar_right %}
+        {% for s in page.sidebar_right %}
+          {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
+          {% if s.text %}{{ s.text | markdownify }}{% endif %}
+          {% if s.nav %}
+            {% include nav_list nav=s.nav %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </aside>
+</div>
+
+<style>
+  .layout--home-right-sidebar {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr); /* Default: single column */
+    gap: 1em;
+  }
+
+  @media (min-width: 80em) { /* Adjust breakpoint as needed (corresponds to $large in _variables.scss) */
+    .layout--home-right-sidebar {
+      grid-template-columns: minmax(0, 3fr) minmax(0, 1fr); /* Two columns on larger screens */
+    }
+    .sidebar-right .sticky {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 2em; /* Adjust based on masthead height */
+    }
+  }
+
+  .main-content {
+    /* Styles for the main content area if needed */
+    padding: 1em;
+  }
+
+  .sidebar-right {
+    /* Styles for the right sidebar area */
+    padding: 1em;
+  }
+</style>
