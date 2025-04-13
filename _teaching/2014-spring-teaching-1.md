@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant for the course of Introduction to data Science (ME) WMME027-05 in 2024"
 collection: teaching
 type: "Undergraduate course: Introduction to data Science (ME) WMME027-05"
 permalink: /teaching/2014-spring-teaching-1
