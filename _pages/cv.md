@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, University of Groningen, 2024.03.05
+* M.S. in MEng, GitHub University, 2017.7.01
+* B.S. in BEng, GitHub University, 2014.07.01
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2023 - present: Postdoctoral Researcher
+  * University Groningen
+  * Duties includes: Research
+  * Supervisor: Elisabeth Wilhelm
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - March 2024: PhD candidate
+  * University of Groningen
+  * Duties included: Research
+  * Supervisor: George Azzopardi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
