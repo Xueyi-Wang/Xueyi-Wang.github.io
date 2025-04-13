@@ -30,7 +30,12 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-### LinkedIn Updates
 
-<!-- First LinkedIn post -->
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7310241744372051968?collapsed=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+sidebar:
+  - title: "My Social Updates"
+    text: |
+      ### LinkedIn Updates
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7310241744372051968?collapsed=1" 
+        height="450" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
+      
+---
