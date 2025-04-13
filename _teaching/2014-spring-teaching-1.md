@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course: Introduction to data Science (ME) WMME027-05"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Groningen"
-date: 2014-01-01
+date: 2024-12-01
 location: "Groningen, The Netherlands"
 ---
 
