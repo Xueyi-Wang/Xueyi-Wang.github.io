@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2014-03-01-talk-3
 venue: "25th International Conference on Pattern Recognition Workshops, ICPR 2020"
-date: 2014-03-01
+date: 2021-01-10
 location: "Milan, Italy"
 ---
 
