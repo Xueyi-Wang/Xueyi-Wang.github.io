@@ -11,8 +11,6 @@ I am currently a postdoctoral researcher in the Discrete Technology & Production
 
 My research interests lie at the intersection of Artificial Intelligence, Healthcare, and Human-Machine Interaction. With a strong foundation in AI and computer science, I am passionate about developing innovative solutions to complex challenges, particularly in advancing AI applications within the healthcare sector.
 
-Here are some of my projects:
 
-
-# Selected Projects
-Here are some selected experience.
+# Related news
+Here are some related news.
