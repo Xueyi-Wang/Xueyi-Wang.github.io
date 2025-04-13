@@ -22,14 +22,15 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 ### X (Twitter) Updates
 <a class="twitter-timeline" 
    href="https://twitter.com/XueyiWang_" 
-   data-width="450" 
-   data-height="500" 
+   data-chrome="noheader nofooter noborders transparent"
+   data-width="100%" 
+   data-height="400" 
+   data-theme="light"
    data-tweet-limit="3">
-   Latest tweets by Xueyi Wang
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### LinkedIn Updates
+<!-- ### LinkedIn Updates
 <!-- Paste LinkedIn embed code below -->
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:YOURPOSTID" 
-        height="570" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+        height="570" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
