@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, University of Groningen, 2024.03.05
-* M.S. in MEng, GitHub University, 2017.7.01
-* B.S. in BEng, GitHub University, 2014.07.01
+* M.S. in MEng, University of Science and Technology of China, 2017.7.01
+* B.S. in BEng, SiChuan University, 2014.07.01
 
 Work experience
 ======
