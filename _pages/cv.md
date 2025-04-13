@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, University of Groningen, 2024.03.05
-* M.S. in MEng, University of Science and Technology of China, 2017.7.01
-* B.S. in BEng, SiChuan University, 2014.07.01
+* Ph.D in Version Control Theory, University of Groningen, 2018.07.01 - 2024.03.05
+* M.S. in MEng, University of Science and Technology of China, 2015.09.01 - 2017.7.01
+* B.S. in BEng, SiChuan University, 2010.09.01 - 2014.07.01
 
 Work experience
 ======
