@@ -13,7 +13,7 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/xueyiwang/)
-<!-- - [X (Twitter)](https://twitter.com/your-twitter-username) -->
+- [X (Twitter)](https://x.com/XueyiWang_)
 
 
 # Related news
