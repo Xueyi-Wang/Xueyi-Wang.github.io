@@ -5,6 +5,13 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+sidebar:
+  - title: "My Social Updates"
+    text: |
+      ### LinkedIn Updates
+      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7310241744372051968?collapsed=1" 
+        height="450" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
+      
 ---
 
 I am currently a postdoctoral researcher in the Discrete Technology & Production Automation (DTPA) group at the University of Groningen. I earned my PhD from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, under the supervision of Prof. Dimka and Prof. George Azzopardi. Prior to that, I completed my Master's degree at the University of Science and Technology of China and my Bachelor's degree at Sichuan University.​
@@ -31,11 +38,4 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
-sidebar:
-  - title: "My Social Updates"
-    text: |
-      ### LinkedIn Updates
-      <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7310241744372051968?collapsed=1" 
-        height="450" width="100%" frameborder="0" allowfullscreen="" title="LinkedIn Post"></iframe>
-      
----
+
