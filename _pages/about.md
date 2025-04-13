@@ -17,4 +17,14 @@ My research interests lie at the intersection of Artificial Intelligence, Health
 
 
 # Related news
-Here are some related news.
+## My Latest Updates
+
+### X (Twitter) Updates
+<a class="twitter-timeline" 
+   href="https://twitter.com/XueyiWang_" 
+   data-width="450" 
+   data-height="500" 
+   data-tweet-limit="3">
+   Latest tweets by Xueyi Wang
+</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
