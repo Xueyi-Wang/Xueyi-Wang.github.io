@@ -2,8 +2,8 @@
 title: "Multivariate Stress Forecast from Sparse Data during Lifestyle Interventions"
 collection: conferences
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+# permalink: /publication/2015-10-01-paper-title-number-3
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2024-11-15
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
