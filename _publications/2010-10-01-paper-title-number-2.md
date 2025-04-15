@@ -8,7 +8,8 @@ date: 2024-12-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-78166-7_16'
+
+
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Falls are significant and often fatal for vulnerable populations such as the elderly. Previous work has addressed the detection of falls by relying on data captured by single sensors, images, or accelerometers. Firstly, we collected and published a new dataset on which we assess our proposed approach. We believe this to be the first public dataset of its kind. The dataset comprises 10,948 video samples from 14 subjects. Additionally, we relied on multimodal descriptors extracted from videos captured by egocentric cameras. Our proposed method includes a late decision fusion layer that builds on top of the extracted descriptors. We conducted ablation experiments to assess the performance of individual feature extractors, the fusion of visual information, and the fusion of both visual and audio information. Moreover, we experimented with internal and external cross-validation. Our results demonstrate that the fusion of audio and visual information through late decision fusion improves detection performance, making it a promising tool for fall prevention and mitigation.
