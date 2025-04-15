@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Version Control Theory, University of Groningen, 2018.07.01 - 2024.03.05
+* M.S. in MEng, University of Science and Technology of China, 2015.09.01 - 2017.7.01
+* B.S. in BEng, SiChuan University, 2010.09.01 - 2014.07.01
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2023 - present: Postdoctoral Researcher
+  * University Groningen
+  * Duties includes: Research
+  * Supervisor: Elisabeth Wilhelm
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - March 2024: PhD candidate
+  * University of Groningen
+  * Duties included: Research
+  * Supervisor: George Azzopardi
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -59,6 +55,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

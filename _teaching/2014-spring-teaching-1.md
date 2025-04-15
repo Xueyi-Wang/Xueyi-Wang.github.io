@@ -1,14 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for the course of Introduction to data Science (ME) WMME027-05 in 2024"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate course: Introduction to data Science (ME) WMME027-05"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Groningen"
+date: 2024-12-01
+location: "Groningen, The Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
+
+
+I was the teaching assistant for the undergraduate course: Introduction to data Science (ME) WMME027-05
 
 Heading 1
 ======
