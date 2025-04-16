@@ -13,7 +13,7 @@ title                    : "Xueyi Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Xueyi Wang"
 description              : &description "personal description"
-url                      : http://www.wangxueyi.org/
+url                      : http://www.wangxueyi.org/ # the base hostname & protocol for your site, e.g. http://example.com
 baseurl                  : ""
 repository               : "Xueyi-Wang/Xueyi-Wang.github.io"
 
