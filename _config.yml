@@ -13,7 +13,7 @@ title                    : "Xueyi Wang's Home Page"
 title_separator          : "-"
 name                     : &name "Xueyi Wang"
 description              : &description "personal description"
-url                      : https://xueyi-wang.github.io/
+url                      : http://www.wangxueyi.org/
 baseurl                  : ""
 repository               : "Xueyi-Wang/Xueyi-Wang.github.io"
 
