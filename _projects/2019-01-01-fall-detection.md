@@ -13,6 +13,8 @@ This project explores a **non-intrusive, first-person vision approach** to fall 
 
 - **EGOFALLS Dataset** -- One of the first large-scale visual-audio fall detection benchmarks from an egocentric perspective, now open-sourced and adopted by multiple international research teams.
   <br>*Wang, X. (2024). Egofalls: A visual-audio dataset and benchmark for fall detection using egocentric cameras. International Conference on Pattern Recognition (ICPR).*
+- **Non-intrusive First-Person Vision Fall Detection** -- An end-to-end fall detection system using body-worn egocentric cameras, combining optical flow and deep learning to achieve accurate and privacy-preserving fall detection without requiring external infrastructure.
+  <br>*Wang, X., Talavera, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with a non-intrusive and first-person vision approach. IEEE Sensors Journal.*
 - **Event Camera + Spiking Neural Network** -- A visual-audio fusion framework combining neuromorphic event cameras with spiking neural networks, achieving robust detection across diverse environmental and lighting conditions.
   <br>*Wang, X., Risi, N., Talavera, E., Chicca, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with event-based data: A case study. International Conference on Computer Analysis of Images and Patterns (CAIP), pp. 33-42.*
 - **Literature Survey** -- A comprehensive survey of elderly fall detection systems, providing a structured taxonomy of existing approaches.
