@@ -12,8 +12,11 @@ Fall-related injuries are a leading cause of accidental death and hospitalizatio
 This project explores a **non-intrusive, first-person vision approach** to fall detection using body-worn egocentric cameras. Over the course of five years (2019--2024), we built a comprehensive research pipeline spanning dataset creation, novel algorithm design, and multi-modal fusion:
 
 - **EGOFALLS Dataset** -- One of the first large-scale visual-audio fall detection benchmarks from an egocentric perspective, now open-sourced and adopted by multiple international research teams.
+  <br>*Wang, X. (2024). Egofalls: A visual-audio dataset and benchmark for fall detection using egocentric cameras. International Conference on Pattern Recognition (ICPR).*
 - **Event Camera + Spiking Neural Network** -- A visual-audio fusion framework combining neuromorphic event cameras with spiking neural networks, achieving robust detection across diverse environmental and lighting conditions.
+  <br>*Wang, X., Risi, N., Talavera, E., Chicca, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with event-based data: A case study. International Conference on Computer Analysis of Images and Patterns (CAIP), pp. 33-42.*
 - **Literature Survey** -- A comprehensive survey of elderly fall detection systems, providing a structured taxonomy of existing approaches.
+  <br>*Wang, X., Ellul, J., & Azzopardi, G. (2020). Elderly fall detection systems: A literature survey. Frontiers in Robotics and AI, 7, 71.*
 
 ---
 
