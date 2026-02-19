@@ -24,8 +24,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/resume.pdf
+  - title: "Projects"
+    url: /projects/
     
   # - title: "CV"
   #   url: /cv-json/
