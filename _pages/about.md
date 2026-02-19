@@ -19,7 +19,7 @@ I am a postdoctoral researcher in the Discrete Technology & Production Automatio
 
 My research focuses on **AI-driven health monitoring and prediction**, with work spanning wearable-based sleep and stress forecasting, multimodal seizure detection, fall detection using egocentric cameras, and sports injury prevention. Many of these projects are developed in close collaboration with industry partners such as health insurers and professional sports clubs, with strong potential for real-world deployment and commercialization. See my [Projects](/projects/) page for details.
 
-Beyond research, I am also an **indie developer** with a strong interest in **entrepreneurship**. I enjoy building end-to-end products from idea to deployment and am actively exploring opportunities to turn AI + Health research into impactful products and services. If you are a fellow entrepreneur, indie developer, or investor interested in AI-powered health tech, I would love to connect -- feel free to reach out via [Email](mailto:xueyi.wang@rug.nl) or [LinkedIn](https://www.linkedin.com/in/xueyiwang/).
+Beyond research, I am also an **independent developer** with a strong interest in **entrepreneurship**. I enjoy building end-to-end products from idea to deployment and am actively exploring opportunities to turn AI + Health research into impactful products and services. If you are a fellow entrepreneur, independent developer, or investor interested in AI-powered health tech, I would love to connect -- feel free to reach out via [Email](mailto:xueyi.wang@rug.nl) or [LinkedIn](https://www.linkedin.com/in/xueyiwang/).
 
 <!-- ## You can reach me at
 - [LinkedIn](https://www.linkedin.com/in/xueyiwang/)
