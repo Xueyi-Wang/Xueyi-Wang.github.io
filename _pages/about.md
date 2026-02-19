@@ -15,9 +15,11 @@ sidebar_right: # Define content for the right sidebar
       <!-- Add more iframes or other content here -->
 ---
 
-I am currently a postdoctoral researcher in the Discrete Technology & Production Automation (DTPA) group at the University of Groningen. I earned my PhD from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, under the supervision of Prof. Dimka Karastoyanova and Prof. George Azzopardi. Prior to that, I completed my Master's degree at the University of Science and Technology of China and my Bachelor's degree at Sichuan University.​
+I am a postdoctoral researcher in the Discrete Technology & Production Automation (DTPA) group at the University of Groningen. I received my PhD from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, supervised by Prof. Dimka Karastoyanova and Prof. George Azzopardi. Before that, I obtained my Master's degree from the University of Science and Technology of China and my Bachelor's degree from Sichuan University.
 
-My research interests lie at the intersection of Artificial Intelligence, Healthcare, and Human-Machine Interaction. With a strong foundation in AI and computer science, I am passionate about developing innovative solutions to complex challenges, particularly in advancing AI applications within the healthcare sector.
+My research focuses on **AI-driven health monitoring and prediction**, with work spanning wearable-based sleep and stress forecasting, multimodal seizure detection, fall detection using egocentric cameras, and sports injury prevention. Many of these projects are developed in close collaboration with industry partners such as health insurers and professional sports clubs, with strong potential for real-world deployment and commercialization. See my [Projects](/projects/) page for details.
+
+Beyond research, I am also an **indie developer** with a strong interest in **entrepreneurship**. I enjoy building end-to-end products from idea to deployment and am actively exploring opportunities to turn AI + Health research into impactful products and services. If you are a fellow entrepreneur, indie developer, or investor interested in AI-powered health tech, I would love to connect -- feel free to reach out via [Email](mailto:xueyi.wang@rug.nl) or [LinkedIn](https://www.linkedin.com/in/xueyiwang/).
 
 <!-- ## You can reach me at
 - [LinkedIn](https://www.linkedin.com/in/xueyiwang/)
