@@ -53,15 +53,15 @@ The data follows a hierarchical structure:
 
 ## Related Publications
 
-1. **Wang, X.**, Talavera, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with a non-intrusive and first-person vision approach. *IEEE Sensors Journal*.
+1. **Wang, X.** (2024). Egofalls: A visual-audio dataset and benchmark for fall detection using egocentric cameras. *International Conference on Pattern Recognition (ICPR)*.
 
-2. **Wang, X.**, Ellul, J., & Azzopardi, G. (2020). Elderly fall detection systems: A literature survey. *Frontiers in Robotics and AI*, 7, 71.
+2. **Wang, X.**, Talavera, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with a non-intrusive and first-person vision approach. *IEEE Sensors Journal*.
 
-3. **Wang, X.** (2024). Egofalls: A visual-audio dataset and benchmark for fall detection using egocentric cameras. *International Conference on Pattern Recognition (ICPR)*.
+3. **Wang, X.**, Risi, N., Talavera, E., Chicca, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with event-based data: A case study. *International Conference on Computer Analysis of Images and Patterns (CAIP)*, pp. 33-42.
 
-4. **Wang, X.**, Risi, N., Talavera, E., Chicca, E., Karastoyanova, D., & Azzopardi, G. (2023). Fall detection with event-based data: A case study. *International Conference on Computer Analysis of Images and Patterns (CAIP)*, pp. 33-42.
+4. **Wang, X.**, Talavera, E., Karastoyanova, D., & Azzopardi, G. (2021). Fall detection and recognition from egocentric visual data: A case study. *International Conference on Pattern Recognition (ICPR)*, pp. 431-443.
 
-5. **Wang, X.**, Talavera, E., Karastoyanova, D., & Azzopardi, G. (2021). Fall detection and recognition from egocentric visual data: A case study. *International Conference on Pattern Recognition (ICPR)*, pp. 431-443.
+5. **Wang, X.**, Ellul, J., & Azzopardi, G. (2020). Elderly fall detection systems: A literature survey. *Frontiers in Robotics and AI*, 7, 71.
 
 ---
 
