@@ -10,8 +10,7 @@ redirect_from:
 sidebar_right:
   - title: "Posts on X"
     text: |
-      <a class="twitter-timeline" data-height="800" href="https://twitter.com/XueyiWang_">Posts by @XueyiWang_</a>
-      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <a class="twitter-timeline" data-height="1200" data-chrome="nofooter" href="https://twitter.com/XueyiWang_">Posts by @XueyiWang_</a>
 ---
 
 I am a postdoctoral researcher in the Discrete Technology & Production Automation (DTPA) group at the University of Groningen. I received my PhD from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, supervised by Prof. Dimka Karastoyanova and Prof. George Azzopardi. Before that, I obtained my Master's degree from the University of Science and Technology of China and my Bachelor's degree from Sichuan University.
