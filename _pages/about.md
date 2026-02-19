@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.page__content p { text-align: justify; }
+</style>
+
 I am a postdoctoral researcher in the Discrete Technology & Production Automation (DTPA) group at the University of Groningen. I received my PhD from the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence, supervised by Prof. Dimka Karastoyanova and Prof. George Azzopardi. Before that, I obtained my Master's degree from the University of Science and Technology of China and my Bachelor's degree from Sichuan University.
 
 My research focuses on **AI-driven health monitoring and prediction**, with work spanning wearable-based sleep and stress forecasting, multimodal seizure detection, fall detection using egocentric cameras, and sports injury prevention. Many of these projects are developed in close collaboration with industry partners such as health insurers and professional sports clubs, with strong potential for real-world deployment and commercialization. See my [Projects](/projects/) page for details.
