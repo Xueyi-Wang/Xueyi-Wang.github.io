@@ -18,6 +18,8 @@ My research focuses on **AI-driven health monitoring and prediction**, with work
 Beyond research, I am also an **independent developer** with a strong interest in **entrepreneurship**. I enjoy building end-to-end products from idea to deployment and am actively exploring opportunities to turn AI + Health research into impactful products and services. If you are a fellow entrepreneur, independent developer, or investor interested in AI-powered health tech, I would love to connect -- feel free to reach out via Email (xueyi dot wang at rug.nl) or [LinkedIn](https://www.linkedin.com/in/xueyiwang/).
 
 ## My Latest Updates
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7431655333925695488?collapsed=1" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7310241744372051968?collapsed=1" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7122178428245561346?collapsed=1" height="450" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
