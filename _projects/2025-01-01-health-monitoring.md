@@ -22,7 +22,7 @@ The figure below illustrates the end-to-end data pipeline: multimodal data from 
 
 ## Dataset
 
-- **Observation period**: July 2012 -- Present (10+ years)
+- **Observation period**: July 2012 -- September 2022 (over 10 years)
 - **Participants**: 100,000+ participants, aged 18--80, 56% female
 - **Average enrollment duration**: ~3.6 years per participant
 - **Temporal granularity**: Weekly
