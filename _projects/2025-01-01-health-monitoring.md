@@ -1,6 +1,6 @@
 ---
 title: "Large-scale Health Monitoring and User Behavior Analysis"
-excerpt: "Lead researcher on the SamenGezond dataset—one of the world's largest preventive health datasets, spanning 7+ years with 83,000+ consented participants."
+excerpt: "Lead researcher on the SamenGezond dataset—one of the world's largest preventive health datasets, spanning 10+ years with 100,000+ participants."
 collection: projects
 date: 2025-01-01
 ---
@@ -22,8 +22,8 @@ The figure below illustrates the end-to-end data pipeline: multimodal data from 
 
 ## Dataset
 
-- **Observation period**: July 2012 -- September 2019 (376 weeks, ~7.2 years)
-- **Participants**: 83,466 consented adults (from ~838,500 enrolled users), aged 18--80 (mean 46.5 years), 56% female
+- **Observation period**: July 2012 -- Present (10+ years)
+- **Participants**: 100,000+ participants, aged 18--80, 56% female
 - **Average enrollment duration**: ~3.6 years per participant
 - **Temporal granularity**: Weekly
 
@@ -36,7 +36,7 @@ The figure below illustrates the end-to-end data pipeline: multimodal data from 
 - Neighborhood-level socioeconomic status (NSES), derived from 9 indicators via the Dutch Central Bureau of Statistics
 - Marketing campaign temporal markers (radio, TV, web)
 
-The bubble chart below compares SamenGezond against 34 other health datasets across three dimensions: number of participants (x-axis), observation duration (y-axis), and number of data modalities (bubble size). SamenGezond stands out with its combination of large participant count (83,466), long duration (7.2 years), and high modality richness (26 modalities).
+The bubble chart below compares SamenGezond against 34 other health datasets across three dimensions: number of participants (x-axis), observation duration (y-axis), and number of data modalities (bubble size). SamenGezond stands out with its combination of large participant count (100,000+), long duration (10+ years), and high modality richness (26 modalities).
 
 <img src="/assets/images/projects/bubble_chart_34datasets.png" alt="Health Dataset Landscape: Participants vs. Duration vs. Modalities" width="100%">
 <em>Figure 2. Health dataset landscape comparing participants, duration, and modalities. SamenGezond (highlighted) combines large scale, long duration, and high modality count.</em>
