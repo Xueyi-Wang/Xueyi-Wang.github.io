@@ -1,10 +1,23 @@
 ---
 title: "Edge-Based Serious Game for Home Rehabilitation"
-excerpt: "Co-developed an Arduino-Unity-based rehabilitation game integrating sensors for real-time motion recognition on resource-constrained edge devices."
+excerpt: "Co-developed an Arduino-Unity rehabilitation game integrating EMG and IMU sensors for real-time motion recognition on edge devices, targeting post-stroke and musculoskeletal rehabilitation."
 collection: projects
 date: 2025-02-01
 ---
 
 **Duration**: 2025
 
-Co-developed an Arduino-Unity-based rehabilitation game integrating sensors for real-time motion recognition on resource-constrained edge devices. Supports customizable rehabilitation targets, on-device model inference, and gamified home-based exercise without clinical supervision. Presented and demonstrated at the International Student Congress of (bio)Medical Sciences (ISCOMS) workshop 2025.
+**Role**: Co-developer; responsible for sensor integration, ML model design, and on-device deployment.
+
+**Collaborators**: Rehabilitation specialists from UMCG; supervised by Prof. dr. Elisabeth Wilhelm.
+
+## Overview
+
+Co-developed an Arduino-Unity-based rehabilitation game integrating EMG and IMU sensors for real-time motion and gesture recognition on resource-constrained edge devices. The system is designed for post-stroke and musculoskeletal rehabilitation, addressing the need for accessible home-based exercise tools that do not require clinical supervision.
+
+The game supports customizable rehabilitation targets, on-device model inference, and gamified exercise routines, enabling patients to perform guided rehabilitation exercises at home while receiving real-time feedback on their movement quality.
+
+## Deliverables
+
+- Working prototype demonstrated at the **ISCOMS 2025** (International Student Congress of (bio)Medical Sciences) workshop.
+- Dataset paper under review.
