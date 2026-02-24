@@ -81,6 +81,6 @@ Seizure onsets were distributed across the central, frontal, temporal, occipital
 
 ## Deliverables
 
-- Lightweight seizure detection model optimized for edge deployment.
-- Internal technical report delivered to consortium partners.
-- Participated in the SeizeIT2 Seizure Detection Challenge and presented at the associated workshop.
+- Participated in the SeizeIT2 Seizure Detection Challenge.
+- Presented results at multiple consortium meetings.
+- Attended and presented at the final SeizeIT2 workshop.
