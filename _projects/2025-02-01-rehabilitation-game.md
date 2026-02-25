@@ -17,6 +17,12 @@ Co-developed an Arduino-Unity-based rehabilitation game integrating EMG and IMU 
 
 The game supports customizable rehabilitation targets, on-device model inference, and gamified exercise routines, enabling patients to perform guided rehabilitation exercises at home while receiving real-time feedback on their movement quality.
 
+## Demo
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ewKBWahybjw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Deliverables
 
 - Working prototype demonstrated at the **ISCOMS 2025** (International Student Congress of (bio)Medical Sciences) workshop.
