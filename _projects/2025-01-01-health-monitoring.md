@@ -31,7 +31,7 @@ The figure below illustrates the end-to-end data pipeline: multimodal data from 
 - Demographics (age, gender)
 - Wearable sensor recordings (physical activity, sleep, heart rate)
 - Health surveys and questionnaires
-- Platform interaction logs (GPS-tracked exercises, goal-setting, AI coaching, social challenges)
+- Platform interaction logs (goal-setting, AI coaching, social challenges)
 - Insurance records
 - Neighborhood-level socioeconomic status (NSES), derived from 9 indicators via the Dutch Central Bureau of Statistics
 - Marketing campaign temporal markers (radio, TV, web)

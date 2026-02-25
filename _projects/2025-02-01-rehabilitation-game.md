@@ -26,4 +26,3 @@ The game supports customizable rehabilitation targets, on-device model inference
 ## Deliverables
 
 - Working prototype demonstrated at the **ISCOMS 2025** (International Student Congress of (bio)Medical Sciences) workshop.
-- Dataset paper under review.
